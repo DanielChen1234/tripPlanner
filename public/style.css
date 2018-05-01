@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #C1B5AD;
+  }
+
+  #map {
+    height: 100vh;
+    width: 100vw;
+  }
+
+  #navbar {
+    display: flex;
+    height: 2em;
+    background-color: rgba(255, 166, 0, 0.692);
+  }
+
+  #title {
+    font: 2em;
+    display: flex;
+    text-align: right;
+  }
+  
